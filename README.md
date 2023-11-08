@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anshuman Tiwari</h1>
 <h3 align="center">A passionate web developer from India and keen to gain more knowledge and experience in this coded world!</h3>
 
-<img align="right" width="400" alt="coding" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+<img align="" width="400" alt="coding" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansh101112&label=Profile%20views&color=0e75b6&style=flat" alt="ansh101112" /> </p>
 
