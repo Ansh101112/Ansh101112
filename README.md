@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Anshuman Tiwari</h1>
-<h3 align="center">A passionate software developer and learner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansh101112&label=Profile%20views&color=0e75b6&style=flat" alt="ansh101112" /> </p>
 
