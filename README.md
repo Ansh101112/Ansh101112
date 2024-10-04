@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/realthugus" target="blank"><img src="https://img.shields.io/twitter/follow/realthugus?logo=twitter&style=for-the-badge" alt="realthugus" /></a> </p>
 
-- 🔭 I’m currently working on [JABROD](jabrod.vercel.app) 
+- 🔭 I’m currently working on [JABROD](https://github.com/jabrod) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
