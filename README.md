@@ -14,7 +14,6 @@
 <p align="left">
 <a href="https://twitter.com/realthugus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="realthugus" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anshumantiiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshumantiiwari" height="30" width="40" /></a>
-<a href="https://instagram.com/ansh_.5911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ansh_.5911" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anshumantiwari145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anshumantiwari145" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/darkwarrior_5911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="darkwarrior_5911" height="30" width="40" /></a>
 </p>
