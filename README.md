@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansh101112" alt="ansh101112" /></a> </p>
 
-<p align='center'>![Leetcode Stats](https://leetcard.jacoblin.cool/AnshumanTiwari145)</p>
+<p align='center'>![Leetcode Stats](https://leetcard.jacoblin.cool/ansh__5911)</p>
 
 <p align="left"> <a href="https://twitter.com/realthugus" target="blank"><img src="https://img.shields.io/twitter/follow/realthugus?logo=twitter&style=for-the-badge" alt="realthugus" /></a> </p>
 
